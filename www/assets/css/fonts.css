@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'cocogoose_condenseletterpress';
+    src: url('fonts/cocogoose-condensed-letterpress-webfont.woff2') format('woff2'),
+         url('fonts/cocogoose-condensed-letterpress-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'cocogooselight';
+    src: url('fonts/cocogoose_pro_light-webfont.woff2') format('woff2'),
+         url('fonts/cocogoose_pro_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'cocogooseregular';
+    src: url('fonts/cocogoose-webfont.woff2') format('woff2'),
+         url('fonts/cocogoose-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
